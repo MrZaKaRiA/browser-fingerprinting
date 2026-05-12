@@ -1,14 +1,23 @@
 <table>
 <tr>
-<td>
-    <i>This repository's development would not have been possible without the support of many partners and sponsors. One of these partners is <b>ScrapingBee, which is a cloud web scraping service with some neat built-in anti-bot detection features.</b></i>
-    <br><br>
-    <a href="https://cutt.ly/VRkHvnL">
-        <b>ScrapingBee - Sign up for a free trial and get -10% on the first invoice with code "NIESPODD"</b><br>
-        <img src="./assets/scrapingbee.png">
+<td width="50%" colspan=2>
+<sup>This repository's development would not have been possible without the support of many partners and sponsors.</sup>
+</td>
+</tr>
+<tr><td colspan=2></td></tr>
+<tr>
+<td width="50%">
+    <a href="https://www.scrapingbee.com/?fpr=darius82">
+        <sup><b>ScrapingBee - Sign up for a free trial and get -10% on the first invoice with code "NIESPODD"</b><br></sup>
+        <img src="./assets/scrapingbee.png" height=80>
     </a>
-    <br>
-    <sup>❤️ partners helping keep this repo alive</sup>
+</td>
+<td width="50%">
+    <a href="https://multilogin.com/antidetect/antidetect-browser/?utm_source=niespodd&utm_medium=partner&a_aid=niespodd&a_bid=f392e357">
+        <sup><b>MultiLogin - undetectable automation with built-in, quality residential proxies. Test 3 days for €1.99.</b><br></sup>
+        <img src="./assets/ml.png" height=80>
+    </a>
+
 </td>
 </tr>
 </table>
